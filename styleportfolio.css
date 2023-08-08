@@ -66,6 +66,12 @@
     
 }
 
+.download:hover{
+    background-color: orange;
+    color: black;
+    transition: 0.4s;
+}
+
 .images{
     width: 45%;
     height: 80%;
